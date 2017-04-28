@@ -1,0 +1,7 @@
+#Tue Apr 25 12:48:30 BST 2017
+base.0=C\:\\Users\\Me\\Desktop\\Coding\\Liam_Lennon_Lab08-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7530363791746cce66b81ca161f8d60545207f17
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Me\\Desktop\\Coding\\Liam_Lennon_Lab08-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dc527566eb0b60da2b7f606536a8e60aa410e711\\classes.dex
+base.1=C\:\\Users\\Me\\Desktop\\Coding\\Liam_Lennon_Lab08-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dc527566eb0b60da2b7f606536a8e60aa410e711
+file.0=C\:\\Users\\Me\\Desktop\\Coding\\Liam_Lennon_Lab08-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7530363791746cce66b81ca161f8d60545207f17\\classes.dex
